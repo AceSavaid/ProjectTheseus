@@ -11,11 +11,16 @@ The entity can attach and detach its libs to create the most optimal body struct
 
 # Team 
 Albert Tran - Project Manager & Shader Artist  
-- Worked on keeping track of the Trello and leading Meetings  
+- Worked on keeping track of the Trello and leading Meetings
+
 Alanns Davis  - Lead Art Director, Designer and Concept Artist  
-- Created the concept art for all character and environment models and UI.  Additionally, created the designs for the enemy, player and upgrade properties.  
+- Created the concept art for all character and environment models and UI.  Additionally, created the designs for the enemy, player and upgrade properties.
+
 Gabriel Villeneuve - Mechanics and Gameplay Programmer  
-- Coded the majority of the aspects of the game including the character systems, upgrade systems, enemy mechanics and other systems that the game functions off of.  
+- Coded the majority of the aspects of the game including the character systems, upgrade systems, enemy mechanics and other systems that the game functions off of.
+
 Hunter Marshall - Lead 3D Modeller and Rigger  
+
 Tristan Dance  - Sound Composer and Sound Effect Designer  
+
 Steven Meredith  - 3D Modeller  
